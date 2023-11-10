@@ -5,10 +5,9 @@
 
 <h3 align="left">Connect With me:</h3>
 <p align="left">
-<a herf=""><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="GunturWS" height="30" width="40" /></a>a>
-<a herf=""></a>
-<a herf=""></a>
-<a herf=""></a>
+<a herf=""><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="GunturWS" height="30" width="40" /></a>
+<a herf=""><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
+<a herf=""><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="GunturWS" height="30" width="40" /></a>
 </p>
 
 <!--
