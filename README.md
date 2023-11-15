@@ -7,8 +7,11 @@
 <h3 align="center">A Passionate Front-End from Indonesia</h3>
 
 <div align="center">
-    <a herf="mailto:"gunturwisnu2003@gmail.com">
+    <a herf="mailto:gunturwisnu2003@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a herf="">
+        <img src="">
     </a>
 </div>
 
