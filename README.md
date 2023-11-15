@@ -7,6 +7,8 @@
 <h3 align="center">A Passionate Front-End from Indonesia</h3>
 
 <hr/>
+
+<h3 align="center">My Social Media</h3>
 <div align="center"> 
   <a href="mailto:gunturwisnu2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
