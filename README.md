@@ -20,10 +20,10 @@
   </a>
 </div>
 
-<br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,java,mysql" />
 </div>
 <!--
 <h3 align="left">Languages and Tools:</h3>
