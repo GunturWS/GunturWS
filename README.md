@@ -6,7 +6,6 @@
 
 <h3 align="center">A Passionate Front-End from Indonesia</h3>
 
-<hr/>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left"> 
