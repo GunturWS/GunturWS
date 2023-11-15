@@ -1,5 +1,4 @@
-[![MasterHead]()
-<h1 align="center">Hi 👋, I'm Guntur Wisnu Saputra</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" /><h1 align="center">Hi 👋, I'm Guntur Wisnu Saputra</h1>
 <h3 allign="center">A Passionate Front-End from Indonesia</h3>
 <img align="" />
 
