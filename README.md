@@ -26,6 +26,9 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,java,mysql" />
 </div>
 
+
+<h3>By the way belom jadi</h3>
+
 <!--
 **GunturWS/GunturWS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
