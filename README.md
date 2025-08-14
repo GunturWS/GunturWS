@@ -27,7 +27,7 @@
 </div>
 
 
-<h3>By the way belom jadi</h3>
+<h3 align="center">Coming Soon</h3>
 
 <!--
 **GunturWS/GunturWS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
